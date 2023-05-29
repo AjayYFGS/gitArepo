@@ -1,0 +1,1 @@
+print("ajay i love you")
